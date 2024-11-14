@@ -12,6 +12,8 @@ import Form5 from './Form5';
 import Form7 from './Form7';
 import Form8 from './Form8';
 import Arrayform from './deatils/Arrayform';
+import State1 from './State1';
+import Useeffect from './Useeffect';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -25,8 +27,10 @@ root.render(
       {/* <Form8/> */}
        {/* <Form6/> */}
        {/* <Form7/> */}
-       <Arrayform/>
+       {/* <Arrayform/> */}
        {/* <Arryimg/> */}
+       {/* <State1/> */}
+       <Useeffect/>
   
     {/* <Formcontroldata/> */}
   </React.StrictMode>
